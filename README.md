@@ -1,4 +1,3 @@
-
 # MorpionJS (Tic-Tac-Toe)
 
 Un jeu de morpion classique en JavaScript. Ce jeu permet à deux joueurs de jouer l'un contre l'autre en alternant entre les symboles "X" et "O". Le jeu prend en charge l'affichage de la grille, la vérification des victoires et des égalités, ainsi que le changement de joueur.
